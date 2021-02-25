@@ -1,1 +1,4 @@
-keys.py
+access*
+api*
+bearer_token
+.ipynb_checkpoints/
