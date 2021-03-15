@@ -1,4 +1,4 @@
-# Updraft
+# twitter and text processing
 This repository will be used to make functions that consume text and process text into drafts on twitter. The idea being that a "superuser" can log into twitter's draft page, edit the tweets if necesssary, and send. 
 
 We can utilize twitter's API and the CGS Linode server to help process announcements into the various places they need to go (websites, social media, etc)  
